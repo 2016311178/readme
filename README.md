@@ -1,4 +1,8 @@
 readme
 ======
- *class experiments
- **try**
+*class experiments*
+**try**
+ *try2
+ 
+ readmeagain
+ -----------
